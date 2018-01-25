@@ -16,12 +16,16 @@ const App = () => (
 		<div className="mylvfts">
 			<Switch>
 				{/* sharing state  */}
-				<Route exact path="/" component={Home} />
-				<Route exact path="/workouts" component={props => <Workouts workouts={data.workouts} />} />
+				<Route exact path={`${process.env.PUBLIC_URL}/`} component={Home} />
+				<Route
+					exact
+					path={`${process.env.PUBLIC_URL}/workouts`}
+					component={props => <Workouts workouts={data.workouts} />}
+				/>
 				{/* <Route exact path="/workout/:id" component={} /> */}
 				<Route
 					exact
-					path="/workout/:id"
+					path={`${process.env.PUBLIC_URL}/workout/:id`}
 					component={props => {
 						// passing the data as a prop to the Workout component
 						const matchedWorkout = data.workouts.find(workout => {
@@ -33,7 +37,7 @@ const App = () => (
 						return <Workout workout={matchedWorkout} />;
 					}}
 				/>
-				<Route exact path="/create" component={CreateWorkout} />
+				<Route exact path={`${process.env.PUBLIC_URL}/create`} component={CreateWorkout} />
 				<Route component={_404} />
 			</Switch>
 		</div>

@@ -13,7 +13,7 @@ const Home = () => (
 						My Way.
 					</h1>
 					<p className="about-msg">Designed and Engineered by Devin Harris.</p>
-					<Link className="enter-btn" to="/workouts">
+					<Link className="enter-btn" to={`${process.env.PUBLIC_URL}/workouts`}>
 						Enter
 					</Link>
 				</div>

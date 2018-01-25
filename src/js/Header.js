@@ -7,11 +7,11 @@ const Header = () => (
 			<header className="header">
 				<div className="header-inner">
 					<h1 className="logo">
-						<Link to="/workouts">
+						<Link to={`${process.env.PUBLIC_URL}/workouts`}>
 							<span className="logo-light">my</span>Lvfts
 						</Link>
 					</h1>
-					<Link className="exit-btn" to="/">
+					<Link className="exit-btn" to={`${process.env.PUBLIC_URL}/`}>
 						<i className="material-icons">close</i>
 					</Link>
 				</div>
