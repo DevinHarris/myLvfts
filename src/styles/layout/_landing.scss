@@ -1,0 +1,40 @@
+.landing {
+	background: url('/public/img/bg.jpg') center center no-repeat;
+	color: #fff;
+	text-align: center;
+
+	.intro-msg-wrap {
+		margin-top: 250px;
+		.intro-msg {
+			font-weight: 700;
+			letter-spacing: 0.2em;
+			text-transform: uppercase;
+
+			.intro-msg-light {
+				font-weight: 300;
+			}
+		}
+
+		.about-msg {
+			font-style: italic;
+		}
+
+		.enter-btn {
+			background-color: $baseColor;
+			border-radius: 50px;
+			color: #2c2c2c;
+			display: inline-block;
+			font-weight: 700;
+			padding: 15px 100px;
+			margin-top: 20px;
+			letter-spacing: 0.5em;
+			opacity: 0.6;
+			text-transform: uppercase;
+			-webkit-transition: opacity 0.5s ease;
+
+			&:hover {
+				opacity: 1;
+			}
+		}
+	}
+}

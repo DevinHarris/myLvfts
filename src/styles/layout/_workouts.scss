@@ -1,0 +1,66 @@
+.workouts-wrap {
+	height: 100%;
+	width: 100%;
+
+	.workouts {
+		display: flex;
+		height: 100%;
+
+		@each $workout in chest, shoulder, back, arm, accessories {
+			.#{$workout} {
+				background: url('/public/img/#{$workout}.png') center center no-repeat;
+			}
+		}
+
+		@media all and (max-width: 1000px) {
+			display: block;
+			flex-direction: column;
+		}
+
+		.workout {
+			align-items: center;
+			background-size: cover;
+			display: flex;
+			justify-content: center;
+			position: relative;
+			text-align: center;
+			opacity: 0.7;
+			width: 60%;
+			-webkit-transition: opacity 300ms ease-in-out;
+
+			@media all and (max-width: 1000px) {
+				height: 100%;
+				width: 100%;
+			}
+
+			&:hover {
+				opacity: 1;
+			}
+
+			/*	&:before {
+				content: '';
+
+				@each $color in #3498db, #1abc9c, #e74c3c, #34495e, #2980b9 {
+					background-color: $color;
+				}
+
+				position: absolute;
+				height: 100%;
+				top: 0;
+				left: 0;
+				opacity: 0.7;
+				width: 100%;
+			} */
+
+			.workout-btn {
+				color: $baseColor;
+				text-transform: uppercase;
+				.workout-bold {
+					font-weight: 700;
+
+					letter-spacing: 0.1em;
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,54 @@
+.exercise-flex {
+	align-items: center;
+	display: flex;
+	justify-content: center;
+
+	.exercise-wrap {
+		margin-top: 200px;
+		width: 70%;
+
+		.split-title {
+			margin-bottom: 100px;
+			text-align: center;
+		}
+
+		.card {
+			border-bottom: 1px solid #e1e1e1;
+			margin-bottom: 50px;
+			padding-bottom: 50px;
+
+			@media all and (max-width: 1500px) {
+				text-align: center;
+			}
+
+			.card-video {
+				display: flex;
+				justify-content: flex-end;
+
+				.form-video {
+					height: 300px;
+					width: 500px;
+				}
+
+				@media all and (max-width: 1500px) {
+					display: block;
+
+					.form-video {
+						height: 200px;
+						width: 350px;
+					}
+				}
+			}
+
+			.finish-btn {
+				-webkit-transition: all 0.5s ease-in-out;
+
+				&:hover {
+					background-color: #63ffbe;
+					border: #63ffbe;
+					color: #fff;
+				}
+			}
+		}
+	}
+}

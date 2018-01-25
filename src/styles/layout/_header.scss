@@ -1,0 +1,40 @@
+.header {
+	box-sizing: border-box;
+	height: 50px;
+	padding: 10px;
+	position: fixed;
+	top: 30px;
+	text-align: center;
+	width: 100%;
+	z-index: 100;
+
+	.header-inner {
+		.logo {
+			display: inline-block;
+			font-size: 1.5em;
+			font-weight: 700;
+			margin-right: 15px;
+
+			a {
+				color: #fff;
+				-webkit-transition: color 0.5s linear;
+
+				.logo-light {
+					font-weight: 300;
+				}
+
+				&:hover {
+					color: #00e8ad;
+				}
+			}
+		}
+
+		.exit-btn {
+			color: #fff;
+
+			i {
+				font-size: 1.3em;
+			}
+		}
+	}
+}

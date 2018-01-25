@@ -1,0 +1,16 @@
+.workout-header {
+	align-items: center;
+	background: url('/public/img/workout-header.jpg') center center no-repeat;
+	background-attachment: fixed;
+	color: #fff;
+	display: flex;
+	justify-content: center;
+	height: 350px;
+	text-align: center;
+	width: 100%;
+
+	.workout-title {
+		font-size: 4rem;
+		font-weight: 600;
+	}
+}

@@ -1,0 +1,970 @@
+{
+	"workouts": [
+		{
+			"title": "Chest Focused Split",
+			"id": "78ff58",
+			"workouts": [
+				{
+					"title": "Heavy Chest Training",
+					"name": "Incline Bench Press",
+					"sets": 3,
+					"reps": "4-6, 6-8, 8-10 (RPT)",
+					"notes": "Reverse Pyramid Training",
+					"youtubeID": "jPLdzuHckI8",
+					"done": false,
+					"id": "b61a20"
+				},
+				{
+					"name": "Flat Bench Press",
+					"sets": 3,
+					"reps": "4-6, 6-8, 8-10 (RPT)",
+					"notes": "Reverse Pyramid Training",
+					"youtubeID": "gRVjAtPip0Y",
+					"done": false,
+					"id": "0c2c34"
+				},
+				{
+					"name": "DB Incline Bench",
+					"sets": 3,
+					"reps": "8-12",
+					"notes": "Straight sets",
+					"youtubeID": "SHsUIZiNdeY",
+					"done": false,
+					"id": "d9a10b"
+				},
+				{
+					"name": "Cable Crossovers",
+					"sets": 3,
+					"reps": "8-12",
+					"notes": "Straight sets / 2 sets of Upper, 2 sets of Lower",
+					"youtubeID": "Iwe6AmxVf7o",
+					"done": false,
+					"id": "3ffee8"
+				},
+				{
+					"name": "Incline DB Curls",
+					"sets": 3,
+					"reps": "4-6, 6-8, 8-10 (RPT)",
+					"youtubeID": "soxrZlIl35U",
+					"done": false,
+					"id": "a86dae"
+				},
+				{
+					"name": "Cable Rope Pushdowns",
+					"sets": 3,
+					"reps": "4-6, 6-8, 8-10 (RPT)",
+					"youtubeID": "REWv05om0ho",
+					"done": false,
+					"id": "218ebb"
+				},
+				{
+					"name": "Landmine Press",
+					"sets": 3,
+					"reps": "8-10",
+					"notes": "Straight sets",
+					"youtubeID": "1G-_FTEkoNw",
+					"done": false,
+					"id": "64fd45"
+				},
+				{
+					"title": "Lowerbody and Abs",
+					"name": "Bulgarian split squats",
+					"sets": 3,
+					"reps": "4-6, 6-8, 8-10 (RPT)",
+					"notes": "Reverse Pyramid Training",
+					"youtubeID": "w4OUtEO27UM",
+					"done": false,
+					"id": "0b2105"
+				},
+				{
+					"name": "Romanian Deadlifts",
+					"sets": 3,
+					"reps": "4-6, 6-8, 8-10 (RPT)",
+					"notes": "Reverse Pyramid Training",
+					"youtubeID": "2SHsk9AzdjA",
+					"done": false,
+					"id": "db1f71"
+				},
+				{
+					"name": "Leg Extensions",
+					"sets": 3,
+					"reps": "8-10, 10-12, 12-15 (RPT)",
+					"youtubeID": "",
+					"done": false,
+					"id": "4b129d"
+				},
+				{
+					"name": "Hanging Leg Raises",
+					"sets": 3,
+					"reps": "8-12",
+					"notes": "",
+					"youtubeID": "7qPYYw3lPSA",
+					"done": false,
+					"id": "ae04c6"
+				},
+				{
+					"title": "Shoulder and Back Emphasis",
+					"name": "Overhead Press",
+					"sets": 3,
+					"reps": "4-6, 6-8, 8-10 (RPT)",
+					"notes": "Reverse Pyramid Training",
+					"youtubeID": "F3QY5vMz_6I",
+					"done": false,
+					"id": "ed11eb"
+				},
+				{
+					"name": "Weighted Pullups",
+					"sets": 3,
+					"reps": "4-6, 6-8, 8-10 (RPT)",
+					"notes": "Reverse Pyramid Training",
+					"youtubeID": "vw5Xmu5CIew",
+					"done": false,
+					"id": "586cc2"
+				},
+				{
+					"name": "Weighted Chinups",
+					"sets": 3,
+					"reps": "4-6, 6-8, 8-10 (RPT)",
+					"notes": "Reverse Pyramid Training",
+					"youtubeID": "mWzZxSx6on4",
+					"done": false,
+					"id": "0f8be3"
+				},
+				{
+					"name": "Bent Over DB Rows",
+					"sets": 3,
+					"reps": "8-10, 10-12, 12-15 (RPT)",
+					"youtubeID": "EEFHHOCfHgw",
+					"done": false,
+					"id": "0e02e4"
+				},
+				{
+					"name": "Incline DB Flyes",
+					"sets": 5,
+					"reps": "12-15 reps + 4 sets of 3-5 reps (rest pause)",
+					"notes": "",
+					"youtubeID": "S298ziysRdI",
+					"done": false,
+					"id": "9820f1"
+				},
+				{
+					"name": "Lateral Raises",
+					"sets": 3,
+					"reps": "4-6, 6-8, 8-10 (RPT)",
+					"youtubeID": "b_LEX4n9lOs",
+					"done": false,
+					"id": "c80fb9"
+				},
+				{
+					"name": "Arnold Press",
+					"sets": 3,
+					"reps": "8-10",
+					"notes": "Straight sets",
+					"youtubeID": "6Z15_WdXmVw",
+					"done": false,
+					"id": "d492af"
+				},
+				{
+					"name": "Front DB Lateral Raises",
+					"sets": 3,
+					"reps": "8-10",
+					"notes": "Straight sets",
+					"youtubeID": "T76xu0XjYTk",
+					"done": false,
+					"id": "51d1f4"
+				},
+				{
+					"name": "Barbell Rows",
+					"sets": 3,
+					"reps": "8-10",
+					"notes": "Straight sets",
+					"youtubeID": "ykP1VnofdIQ",
+					"done": false,
+					"id": "aec3f4"
+				},
+				{
+					"name": "Cable Rows",
+					"sets": 3,
+					"reps": "8-10",
+					"notes": "Straight sets",
+					"youtubeID": "4mRy8U542Fo",
+					"done": false,
+					"id": "d59c32"
+				}
+			]
+		},
+		{
+			"title": "Shoulder Focused Split",
+			"id": "b056dc",
+			"workouts": [
+				{
+					"title": "Heavy Chest Training",
+					"name": "Incline Bench Press",
+					"sets": 3,
+					"reps": "4-6, 6-8, 8-10 (RPT)",
+					"notes": "Reverse Pyramid Training",
+					"youtubeID": "jPLdzuHckI8",
+					"done": false,
+					"id": "57db1e"
+				},
+				{
+					"name": "Flat Bench Press",
+					"sets": 3,
+					"reps": "4-6, 6-8, 8-10 (RPT)",
+					"notes": "Reverse Pyramid Training",
+					"youtubeID": "gRVjAtPip0Y",
+					"done": false,
+					"id": "9d955d"
+				},
+				{
+					"name": "DB Incline Bench",
+					"sets": 3,
+					"reps": "8-12",
+					"notes": "Straight sets",
+					"youtubeID": "SHsUIZiNdeY",
+					"done": false,
+					"id": "f9d0ca"
+				},
+				{
+					"name": "Cable Crossovers",
+					"sets": 3,
+					"reps": "8-12",
+					"notes": "Straight sets / 2 sets of Upper, 2 sets of Lower",
+					"youtubeID": "Iwe6AmxVf7o",
+					"done": false,
+					"id": "7680f9"
+				},
+				{
+					"name": "Incline DB Curls",
+					"sets": 3,
+					"reps": "4-6, 6-8, 8-10 (RPT)",
+					"youtubeID": "soxrZlIl35U",
+					"done": false,
+					"id": "69f9dc"
+				},
+				{
+					"name": "Cable Rope Pushdowns",
+					"sets": 3,
+					"reps": "4-6, 6-8, 8-10 (RPT)",
+					"youtubeID": "REWv05om0ho",
+					"done": false,
+					"id": "ae57ff"
+				},
+				{
+					"name": "Landmine Press",
+					"sets": 3,
+					"reps": "8-10",
+					"notes": "Straight sets",
+					"youtubeID": "1G-_FTEkoNw",
+					"done": false,
+					"id": "5ea3ec"
+				},
+				{
+					"name": "Face Pulls",
+					"sets": 5,
+					"reps": "12-15 reps + 4 sets of 3-5 reps (rest pause)",
+					"notes": "Rest pause",
+					"youtubeID": "vFR8ClayjsY",
+					"done": false,
+					"id": "6e0dca"
+				},
+				{
+					"name": "Wide grip upright row",
+					"sets": 4,
+					"reps": "12, 10, 8, 6 (standard pyramid)",
+					"notes": "Straight sets",
+					"youtubeID": "0p8H4Jr6SC0",
+					"done": false,
+					"id": "ceeec9"
+				},
+				{
+					"title": "Lowerbody and Abs",
+					"name": "Bulgarian split squats",
+					"sets": 3,
+					"reps": "4-6, 6-8, 8-10 (RPT)",
+					"notes": "Reverse Pyramid Training",
+					"youtubeID": "w4OUtEO27UM",
+					"done": false,
+					"id": "201c43"
+				},
+				{
+					"name": "Romanian Deadlifts",
+					"sets": 3,
+					"reps": "4-6, 6-8, 8-10 (RPT)",
+					"notes": "Reverse Pyramid Training",
+					"youtubeID": "2SHsk9AzdjA",
+					"done": false,
+					"id": "aaf1ac"
+				},
+				{
+					"name": "Leg Extensions",
+					"sets": 3,
+					"reps": "8-10, 10-12, 12-15 (RPT)",
+					"youtubeID": "",
+					"done": false,
+					"id": "5c0fdd"
+				},
+				{
+					"name": "Hanging Leg Raises",
+					"sets": 3,
+					"reps": "8-12",
+					"notes": "",
+					"youtubeID": "7qPYYw3lPSA",
+					"done": false,
+					"id": "19a62e"
+				},
+				{
+					"title": "Shoulder and Back Emphasis",
+					"name": "Overhead Press",
+					"sets": 3,
+					"reps": "4-6, 6-8, 8-10 (RPT)",
+					"notes": "Reverse Pyramid Training",
+					"youtubeID": "F3QY5vMz_6I",
+					"done": false,
+					"id": "bec75b"
+				},
+				{
+					"name": "Weighted Pullups",
+					"sets": 3,
+					"reps": "4-6, 6-8, 8-10 (RPT)",
+					"notes": "Reverse Pyramid Training",
+					"youtubeID": "vw5Xmu5CIew",
+					"done": false,
+					"id": "d86843"
+				},
+				{
+					"name": "Weighted Chinups",
+					"sets": 3,
+					"reps": "4-6, 6-8, 8-10 (RPT)",
+					"notes": "Reverse Pyramid Training",
+					"youtubeID": "mWzZxSx6on4",
+					"done": false,
+					"id": "e74b20"
+				},
+				{
+					"name": "Bent Over DB Rows",
+					"sets": 3,
+					"reps": "8-10, 10-12, 12-15 (RPT)",
+					"youtubeID": "EEFHHOCfHgw",
+					"done": false,
+					"id": "ba5b06"
+				},
+				{
+					"name": "Incline DB Flyes",
+					"sets": 5,
+					"reps": "12-15 reps + 4 sets of 3-5 reps (rest pause)",
+					"notes": "",
+					"youtubeID": "S298ziysRdI",
+					"done": false,
+					"id": "123be2"
+				},
+				{
+					"name": "Lateral Raises",
+					"sets": 3,
+					"reps": "4-6, 6-8, 8-10 (RPT)",
+					"youtubeID": "b_LEX4n9lOs",
+					"done": false,
+					"id": "9fa6fe"
+				},
+				{
+					"name": "Arnold Press",
+					"sets": 3,
+					"reps": "8-10",
+					"notes": "Straight sets",
+					"youtubeID": "6Z15_WdXmVw",
+					"done": false,
+					"id": "416595"
+				},
+				{
+					"name": "Front DB Lateral Raises",
+					"sets": 3,
+					"reps": "8-10",
+					"notes": "Straight sets",
+					"youtubeID": "T76xu0XjYTk",
+					"done": false,
+					"id": "afbdd9"
+				},
+				{
+					"name": "Barbell Rows",
+					"sets": 3,
+					"reps": "8-10",
+					"notes": "Straight sets",
+					"youtubeID": "ykP1VnofdIQ",
+					"done": false,
+					"id": "d91e24"
+				},
+				{
+					"name": "Cable Rows",
+					"sets": 3,
+					"reps": "8-10",
+					"notes": "Straight sets",
+					"youtubeID": "4mRy8U542Fo",
+					"done": false,
+					"id": "4efdc8"
+				},
+				{
+					"name": "Weighted Dips",
+					"sets": 2,
+					"reps": "8-10",
+					"notes": "Reverse Pyramid Training",
+					"youtubeID": "",
+					"done": false,
+					"id": "66bc70"
+				}
+			]
+		},
+		{
+			"title": "Arm Focused Split",
+			"id": "880204",
+			"workouts": [
+				{
+					"title": "Heavy Chest Training",
+					"name": "Incline Bench Press",
+					"sets": 3,
+					"reps": "4-6, 6-8, 8-10 (RPT)",
+					"notes": "Reverse Pyramid Training",
+					"youtubeID": "jPLdzuHckI8",
+					"done": false,
+					"id": "03de45"
+				},
+				{
+					"name": "Flat Bench Press",
+					"sets": 3,
+					"reps": "4-6, 6-8, 8-10 (RPT)",
+					"notes": "Reverse Pyramid Training",
+					"youtubeID": "gRVjAtPip0Y",
+					"done": false,
+					"id": "834f97"
+				},
+				{
+					"name": "DB Incline Bench",
+					"sets": 3,
+					"reps": "8-12",
+					"notes": "Straight sets",
+					"youtubeID": "SHsUIZiNdeY",
+					"done": false,
+					"id": "ba05f1"
+				},
+				{
+					"name": "Cable Crossovers",
+					"sets": 3,
+					"reps": "8-12",
+					"notes": "Straight sets / 2 sets of Upper, 2 sets of Lower",
+					"youtubeID": "Iwe6AmxVf7o",
+					"done": false,
+					"id": "4740b0"
+				},
+				{
+					"name": "Incline DB Curls",
+					"sets": 3,
+					"reps": "4-6, 6-8, 8-10 (RPT)",
+					"youtubeID": "soxrZlIl35U",
+					"done": false,
+					"id": "1f7a05"
+				},
+				{
+					"name": "Cable Rope Pushdowns",
+					"sets": 3,
+					"reps": "4-6, 6-8, 8-10 (RPT)",
+					"youtubeID": "REWv05om0ho",
+					"done": false,
+					"id": "fdfdba"
+				},
+				{
+					"name": "Landmine Press",
+					"sets": 3,
+					"reps": "8-10",
+					"notes": "Straight sets",
+					"youtubeID": "1G-_FTEkoNw",
+					"done": false,
+					"id": "d1c73a"
+				},
+				{
+					"name": "Cable Curls",
+					"sets": 5,
+					"reps": "4 sets of 3-5 reps (rest pause)",
+					"notes": "Straight sets",
+					"youtubeID": "",
+					"done": false,
+					"id": "84315d"
+				},
+				{
+					"name": "Bent Over Flyes",
+					"sets": 3,
+					"reps": "10-15 reps",
+					"notes": "Straight sets",
+					"youtubeID": "",
+					"done": false,
+					"id": "50240b"
+				},
+				{
+					"title": "Lowerbody and Abs",
+					"name": "Pistol squats",
+					"sets": 3,
+					"reps": "4-6, 6-8, 8-10 (RPT)",
+					"notes": "Reverse Pyramid Training",
+					"youtubeID": "",
+					"done": false,
+					"id": "5b47b4"
+				},
+				{
+					"name": "Romanian Deadlifts",
+					"sets": 3,
+					"reps": "4-6, 6-8, 8-10 (RPT)",
+					"notes": "Reverse Pyramid Training",
+					"youtubeID": "2SHsk9AzdjA",
+					"done": false,
+					"id": "2c60fb"
+				},
+				{
+					"name": "Leg Extensions",
+					"sets": 3,
+					"reps": "8-10, 10-12, 12-15 (RPT)",
+					"youtubeID": "",
+					"done": false,
+					"id": "2aa754"
+				},
+				{
+					"name": "Hanging Leg Raises",
+					"sets": 3,
+					"reps": "8-12",
+					"notes": "",
+					"youtubeID": "7qPYYw3lPSA",
+					"done": false,
+					"id": "a16e5e"
+				},
+				{
+					"title": "Shoulder and Back Emphasis",
+					"name": "Overhead Press",
+					"sets": 3,
+					"reps": "4-6, 6-8, 8-10 (RPT)",
+					"notes": "Reverse Pyramid Training",
+					"youtubeID": "F3QY5vMz_6I",
+					"done": false,
+					"id": "d66879"
+				},
+				{
+					"name": "Weighted Pullups",
+					"sets": 3,
+					"reps": "4-6, 6-8, 8-10 (RPT)",
+					"notes": "Reverse Pyramid Training",
+					"youtubeID": "vw5Xmu5CIew",
+					"done": false,
+					"id": "2de5cf"
+				},
+				{
+					"name": "Weighted Chinups",
+					"sets": 3,
+					"reps": "4-6, 6-8, 8-10 (RPT)",
+					"notes": "Reverse Pyramid Training",
+					"youtubeID": "mWzZxSx6on4",
+					"done": false,
+					"id": "e90622"
+				},
+				{
+					"name": "Bent Over DB Rows",
+					"sets": 3,
+					"reps": "8-10, 10-12, 12-15 (RPT)",
+					"youtubeID": "EEFHHOCfHgw",
+					"done": false,
+					"id": "f073b9"
+				},
+				{
+					"name": "Incline DB Flyes",
+					"sets": 5,
+					"reps": "12-15 reps + 4 sets of 3-5 reps (rest pause)",
+					"notes": "",
+					"youtubeID": "S298ziysRdI",
+					"done": false,
+					"id": "ae0657"
+				},
+				{
+					"name": "Lateral Raises",
+					"sets": 3,
+					"reps": "4-6, 6-8, 8-10 (RPT)",
+					"youtubeID": "b_LEX4n9lOs",
+					"done": false,
+					"id": "11f9bd"
+				},
+				{
+					"name": "Arnold Press",
+					"sets": 3,
+					"reps": "8-10",
+					"notes": "Straight sets",
+					"youtubeID": "6Z15_WdXmVw",
+					"done": false,
+					"id": "fad581"
+				},
+				{
+					"name": "Front DB Lateral Raises",
+					"sets": 3,
+					"reps": "8-10",
+					"notes": "Straight sets",
+					"youtubeID": "T76xu0XjYTk",
+					"done": false,
+					"id": "f06de5"
+				},
+				{
+					"name": "Barbell Rows",
+					"sets": 3,
+					"reps": "8-10",
+					"notes": "Straight sets",
+					"youtubeID": "ykP1VnofdIQ",
+					"done": false,
+					"id": "873aad"
+				},
+				{
+					"name": "Cable Rows",
+					"sets": 3,
+					"reps": "8-10",
+					"notes": "Straight sets",
+					"youtubeID": "4mRy8U542Fo",
+					"done": false,
+					"id": "114bf4"
+				},
+				{
+					"name": "Skull Crushers",
+					"sets": 3,
+					"reps": "8-10, 10-12, 12-15 (RPT)",
+					"youtubeID": "gXbSA9EKUtA",
+					"done": false,
+					"id": "239953"
+				},
+				{
+					"name": "Barbell Curls",
+					"sets": 3,
+					"reps": "8-12",
+					"notes": "",
+					"youtubeID": "WeZLdaLggAo",
+					"done": false,
+					"id": "b7a35d"
+				},
+				{
+					"name": "Hammer Curls",
+					"sets": 3,
+					"reps": "4-6, 6-8, 8-10 (RPT)",
+					"youtubeID": "Tvvq8KpzyMY",
+					"done": false,
+					"id": "1041ef"
+				},
+				{
+					"name": "Lateral Raises",
+					"sets": 3,
+					"reps": "4-6, 6-8, 8-10 (RPT)",
+					"youtubeID": "b_LEX4n9lOs",
+					"done": false,
+					"id": "2ad43b"
+				},
+				{
+					"name": "Arnold Press",
+					"sets": 3,
+					"reps": "8-10",
+					"notes": "Straight sets",
+					"youtubeID": "6Z15_WdXmVw",
+					"done": false,
+					"id": "9bbe44"
+				},
+				{
+					"name": "Front DB Lateral Raises",
+					"sets": 3,
+					"reps": "8-10",
+					"notes": "Straight sets",
+					"youtubeID": "T76xu0XjYTk",
+					"done": false,
+					"id": "7400ca"
+				},
+				{
+					"name": "Cable Rows",
+					"sets": 3,
+					"reps": "8-10",
+					"notes": "Straight sets",
+					"youtubeID": "4mRy8U542Fo",
+					"done": false,
+					"id": "520880"
+				}
+			]
+		},
+		{
+			"title": "Bonus Split",
+			"id": "1351f3",
+			"workouts": [
+				{
+					"title": "Chest & Biceps",
+					"name": "Incline Bench Press",
+					"sets": 3,
+					"reps": "4-6, 6-8, 8-10 (RPT)",
+					"notes": "Reverse Pyramid Training",
+					"youtubeID": "jPLdzuHckI8",
+					"done": false,
+					"id": "fcc41c"
+				},
+				{
+					"name": "Flat Bench Press",
+					"sets": 3,
+					"reps": "4-6, 6-8, 8-10 (RPT)",
+					"notes": "Reverse Pyramid Training",
+					"youtubeID": "gRVjAtPip0Y",
+					"done": false,
+					"id": "521547"
+				},
+				{
+					"name": "DB Incline Bench",
+					"sets": 3,
+					"reps": "8-12",
+					"notes": "Straight sets",
+					"youtubeID": "SHsUIZiNdeY",
+					"done": false,
+					"id": "4cbac0"
+				},
+				{
+					"name": "Cable Crossovers",
+					"sets": 3,
+					"reps": "8-12",
+					"notes": "Straight sets / 2 sets of Upper, 2 sets of Lower",
+					"youtubeID": "Iwe6AmxVf7o",
+					"done": false,
+					"id": "3590ef"
+				},
+				{
+					"name": "Incline DB Curls",
+					"sets": 3,
+					"reps": "4-6, 6-8, 8-10 (RPT)",
+					"youtubeID": "soxrZlIl35U",
+					"done": false,
+					"id": "66322d"
+				},
+				{
+					"name": "Cable Rope Pushdowns",
+					"sets": 3,
+					"reps": "4-6, 6-8, 8-10 (RPT)",
+					"youtubeID": "REWv05om0ho",
+					"done": false,
+					"id": "dab36b"
+				},
+				{
+					"name": "Landmine Press",
+					"sets": 3,
+					"reps": "8-10",
+					"notes": "Straight sets",
+					"youtubeID": "1G-_FTEkoNw",
+					"done": false,
+					"id": "3e5786"
+				},
+				{
+					"name": "Cable Curls",
+					"sets": 5,
+					"reps": "4 sets of 3-5 reps (rest pause)",
+					"notes": "Straight sets",
+					"youtubeID": "",
+					"done": false,
+					"id": "12fe2f"
+				},
+				{
+					"name": "Bent Over Flyes",
+					"sets": 3,
+					"reps": "10-15 reps",
+					"notes": "Straight sets",
+					"youtubeID": "",
+					"done": false,
+					"id": "6532d5"
+				},
+				{
+					"name": "Low Incline Flyes",
+					"sets": 5,
+					"reps": "(12-15 reps + 4 sets of 3-5 reps)",
+					"notes": "Straight sets",
+					"youtubeID": "",
+					"done": false,
+					"id": "bfb14e"
+				},
+				{
+					"title": "Legs and Abs",
+					"name": "Pistol squats",
+					"sets": 3,
+					"reps": "4-6, 6-8, 8-10 (RPT)",
+					"notes": "Reverse Pyramid Training",
+					"youtubeID": ""
+				},
+				{
+					"name": "Romanian Deadlifts",
+					"sets": 3,
+					"reps": "4-6, 6-8, 8-10 (RPT)",
+					"notes": "Reverse Pyramid Training",
+					"youtubeID": "2SHsk9AzdjA",
+					"done": false,
+					"id": "f80908"
+				},
+				{
+					"name": "Leg Extensions",
+					"sets": 3,
+					"reps": "8-10, 10-12, 12-15 (RPT)",
+					"youtubeID": "",
+					"done": false,
+					"id": "ca823f"
+				},
+				{
+					"name": "Hanging Leg Raises",
+					"sets": 3,
+					"reps": "8-12",
+					"notes": "",
+					"youtubeID": "7qPYYw3lPSA",
+					"done": false,
+					"id": "0efc3a"
+				},
+				{
+					"title": "Shoulders, Back & Triceps",
+					"name": "Overhead Press",
+					"sets": 3,
+					"reps": "4-6, 6-8, 8-10 (RPT)",
+					"notes": "Reverse Pyramid Training",
+					"youtubeID": "F3QY5vMz_6I",
+					"done": false,
+					"id": "97c864"
+				},
+				{
+					"name": "Weighted Pullups",
+					"sets": 3,
+					"reps": "4-6, 6-8, 8-10 (RPT)",
+					"notes": "Reverse Pyramid Training",
+					"youtubeID": "vw5Xmu5CIew",
+					"done": false,
+					"id": "c332ad"
+				},
+				{
+					"name": "Weighted Chinups",
+					"sets": 3,
+					"reps": "4-6, 6-8, 8-10 (RPT)",
+					"notes": "Reverse Pyramid Training",
+					"youtubeID": "mWzZxSx6on4",
+					"done": false,
+					"id": "2795dd"
+				},
+				{
+					"name": "Bent Over DB Rows",
+					"sets": 3,
+					"reps": "8-10, 10-12, 12-15 (RPT)",
+					"youtubeID": "EEFHHOCfHgw",
+					"done": false,
+					"id": "9dba66"
+				},
+				{
+					"name": "Incline DB Flyes",
+					"sets": 5,
+					"reps": "12-15 reps + 4 sets of 3-5 reps (rest pause)",
+					"notes": "",
+					"youtubeID": "S298ziysRdI",
+					"done": false,
+					"id": "4b9406"
+				},
+				{
+					"name": "Lateral Raises",
+					"sets": 3,
+					"reps": "4-6, 6-8, 8-10 (RPT)",
+					"youtubeID": "b_LEX4n9lOs",
+					"done": false,
+					"id": "738c39"
+				},
+				{
+					"name": "Arnold Press",
+					"sets": 3,
+					"reps": "8-10",
+					"notes": "Straight sets",
+					"youtubeID": "6Z15_WdXmVw",
+					"done": false,
+					"id": "827fde"
+				},
+				{
+					"name": "Front DB Lateral Raises",
+					"sets": 3,
+					"reps": "8-10",
+					"notes": "Straight sets",
+					"youtubeID": "T76xu0XjYTk",
+					"done": false,
+					"id": "135667"
+				},
+				{
+					"name": "Barbell Rows",
+					"sets": 3,
+					"reps": "8-10",
+					"notes": "Straight sets",
+					"youtubeID": "ykP1VnofdIQ",
+					"done": false,
+					"id": "1ec54f"
+				},
+				{
+					"name": "Skull Crushers",
+					"sets": 3,
+					"reps": "8-10, 10-12, 12-15 (RPT)",
+					"youtubeID": "gXbSA9EKUtA",
+					"done": false,
+					"id": "be9c27"
+				},
+				{
+					"name": "Lateral Raises",
+					"sets": 3,
+					"reps": "4-6, 6-8, 8-10 (RPT)",
+					"youtubeID": "b_LEX4n9lOs",
+					"done": false,
+					"id": "aa067b"
+				},
+				{
+					"name": "Arnold Press",
+					"sets": 3,
+					"reps": "8-10",
+					"notes": "Straight sets",
+					"youtubeID": "6Z15_WdXmVw",
+					"done": false,
+					"id": "b00ec6"
+				},
+				{
+					"name": "Cable Rows",
+					"sets": 3,
+					"reps": "8-10",
+					"notes": "Straight sets",
+					"youtubeID": "4mRy8U542Fo",
+					"done": false,
+					"id": "3189ad"
+				},
+				{
+					"name": "Rope Extensions",
+					"sets": 5,
+					"reps": "8-10",
+					"notes": "(12-15 reps + 4 sets of 3-5 reps)",
+					"youtubeID": "42VzFrDV8kk",
+					"done": false,
+					"id": "571c1a"
+				}
+			]
+		},
+		{
+			"title": "Accessories ",
+			"id": "a89028",
+			"exercises": [
+				{
+					"name": "Incline Bench",
+					"sets": 3,
+					"reps": "8-12",
+					"notes": "Use Reverse pyramid training",
+					"done": false,
+					"id": "c2f2fa"
+				},
+				{
+					"name": "Bench",
+					"sets": 3,
+					"reps": "8-12",
+					"notes": "Straight sets",
+					"done": false,
+					"id": "fa7856"
+				},
+				{
+					"name": "DB Incline Bench",
+					"sets": 3,
+					"reps": "8-12",
+					"notes": "Straight sets",
+					"done": false,
+					"id": "483084"
+				}
+			]
+		}
+	]
+}
